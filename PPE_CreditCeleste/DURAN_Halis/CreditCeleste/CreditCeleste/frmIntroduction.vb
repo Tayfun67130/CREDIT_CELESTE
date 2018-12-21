@@ -6,7 +6,7 @@
 
 
     Private Sub frmIntroduction_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'saluy'
+
 
 
         'affichage des vendeurs
