@@ -1,0 +1,16 @@
+E:\Slam2\TpFinance\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.dll
+E:\Slam2\TpFinance\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.pdb
+E:\Slam2\TpFinance\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.dll
+E:\Slam2\TpFinance\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.pdb
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.dll
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.pdb
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.csprojAssemblyReference.cache
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.csproj.CoreCompileInputs.cache
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.dll
+F:\Halis\BTS\2ème_Année\1er_Semestre\M. KREYDER\Visual_Studio\DURAN_Halis_ 16-10-2018\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.dll
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\bin\Debug\ClscCalcul.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.csprojAssemblyReference.cache
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.csproj.CoreCompileInputs.cache
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.dll
+E:\PPE_CreditCeleste\DURAN_Halis\ClscCalcul\ClscCalcul\obj\Debug\ClscCalcul.pdb

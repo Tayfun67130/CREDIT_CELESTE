@@ -1,0 +1,213 @@
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+D:\SchultzMartin2SLAM\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\PPE\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\PPE\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\PPE\ContexteCreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+D:\SchultzMartin2SLAM\Contexte\CreditCeleste\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\PPE\ContexteCreditCeleste\02-10\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+G:\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+E:\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+E:\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+C:\Users\halis\Desktop\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\halis\Documents\BTS\BTS_2èmeAnnée\M.KREYDER\Visual_Studio\duran\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmClient.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+C:\Users\halis\Desktop\DURAN_Halis_ 16-10-2018\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.dll
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\ClscCalcul.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmAccueil.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmClient.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+E:\PPE_CreditCeleste\DURAN_Halis\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCreditBis.resources
